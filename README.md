@@ -11,7 +11,7 @@
 ### 👋 About Me
 
 - 🎓 Student @ **HCMUE** | Information Technology Major
-- 🛠️ Fullstack Developer | Discord Bot Enthusiast
+- 🛠️ Halfstack Developer | Discord Bot Enthusiast
 - 💻 Languages: <b>JavaScript</b>, HTML, CSS, PHP
 - 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
 - 🎬 Editor (Sony Vegas Pro 21)
@@ -36,11 +36,11 @@ A Fullstack System:
 ```js
 const techStack = [
   'Node.js', 'Express.js', 'MongoDB',
-  'HTML', 'CSS', 'JavaScript', 'PHP', 'Sony Vegas Pro'
+  'HTML', 'CSS', 'JavaScript', 'Sony Vegas Pro'
 ];
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,html,css,js,discord,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css,js,discord,vscode" />
 </p>
 
 ---
