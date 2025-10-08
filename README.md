@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/92/33/80/92338017c079bea4f1250ed4a3056117.gif" width="100%" alt="Pixel Art Banner"/>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=An+editor+also+a+coder;Welcome+to+IzukiNo%27s+Profile!" alt="Typing SVG" />
 </h1>
@@ -27,7 +23,7 @@
 
 ### ⭐ Featured Project: [VNList](https://vnlist.asia)
 
-**VNList** – Minecraft 1.21 PvP Tierlist for Vietnam  
+**VNList** – A Minecraft 1.21 PvP Tierlist for Vietnam  
 A Fullstack System:
 - 🌐 Tierlist Website, Backend, and Discord Bot
 - 🛠️ Built with Node.js, Express.js, MongoDB
@@ -81,7 +77,7 @@ const techStack = [
   <summary><b>✨ More About Me</b></summary>
   <ul>
     <li>Always learning new tech, especially fullstack & bots</li>
-    <li>Favorite IDE: VS Code (with neon themes!) and Notepad++</li>
+    <li>Favorite IDE: VS Code and Notepad++</li>
     <li>YouTube: I sometimes post Minecraft edit clips</li>
   </ul>
 </details>
