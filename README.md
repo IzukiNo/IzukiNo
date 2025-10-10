@@ -11,8 +11,8 @@
 ### 👋 About Me
 
 - 🎓 Student @ **HCMUE** | Information Technology Major
-- 🛠️ Halfstack Developer | Discord Bot Enthusiast
-- 💻 Languages: <b>JavaScript</b>, HTML, CSS, PHP
+- 🛠️ Fullstack/2 Developer
+- 💻 Languages: <b>JavaScript</b>, HTML, CSS, C++, C#, PHP
 - 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
 - 🎬 Editor (Sony Vegas Pro 21)
 - 🌐 Portfolio: [izukino.tech](https://izukino.tech)
@@ -78,7 +78,7 @@ const techStack = [
   <ul>
     <li>Always learning new tech, especially fullstack & bots</li>
     <li>Favorite IDE: VS Code and Notepad++</li>
-    <li>YouTube: I sometimes post Minecraft edit clips</li>
+    <li>YouTube: I sometimes post Minecraft montage edits</li>
   </ul>
 </details>
 
