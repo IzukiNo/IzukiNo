@@ -3,87 +3,94 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/IzukiNo.png" width="120" height="120" style="border-radius:25px">
+<img src="https://github.com/IzukiNo.png" width="150" height="150" style="border-radius:50%; border: 2px solid #555;">
 </p>
 
 ---
 
-### 👋 About Me
+<h1 align="center">About Me</h1>
+<table>
+<tr>
+<td valign="center" width="60%">
 
 - 🎓 Student @ **HCMUE** | Information Technology Major
 - 🛠️ Fullstack/2 Developer
-- 💻 Languages: <b>JavaScript</b>, HTML, CSS, C++, C#, PHP
+- 💻 Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
 - 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
 - 🎬 Editor (Sony Vegas Pro 21)
 - 🌐 Portfolio: [izukino.tech](https://izukino.tech)
-- 😴 Hobbies: Sleeping (Certified Napper 🛌), Gaming
-- 🎮 Minecraft, Valorant
+- 😴 Hobbies: Sleeping (Certified Napper 🛌), Gaming (Minecraft, Valorant)
 
----
-
-### ⭐ Featured Project: [VNList](https://vnlist.asia)
-
-**VNList** – A Minecraft 1.21 PvP Tierlist for Vietnam  
-A Fullstack System:
-- 🌐 Tierlist Website, Backend, and Discord Bot
-- 🛠️ Built with Node.js, Express.js, MongoDB
-- 🏆 Empowering the Vietnamese Minecraft PvP community
-
----
-
-### 💡 Skills & Tech
-
-```js
-const techStack = [
-  'Node.js', 'Express.js', 'MongoDB',
-  'HTML', 'CSS', 'JavaScript', 'Sony Vegas Pro'
-];
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css,js,discord,vscode" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/izukinoo)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/izukinooo)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IzukiNo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://izukino.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IzukiNo)
-
----
-
-### ⚡ Fun Facts
-
-- 🌑 Always in dark mode
-- 💬 Fluent in memes, code, and video edits
-- 💤 Sleep is my superpower
-
----
+</td>
+<td valign="top" width="40%">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IzukiNo&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IzukiNo&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzukiNo&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h1 align="center">Tech Stacks</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,php,cs,cpp,vscode,git,github,discord" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IzukiNo&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-<details>
-  <summary><b>✨ More About Me</b></summary>
-  <ul>
-    <li>Always learning new tech, especially fullstack & bots</li>
-    <li>Favorite IDE: VS Code and Notepad++</li>
-    <li>YouTube: I sometimes post Minecraft montage edits</li>
-  </ul>
-</details>
+<h1 align="center">My Featured Projects</h1>
+<div align="center">
+<table width="70%" style="border-radius: 10px; border: 1px solid #333; background-color: #1A1B27; padding: 20px;">
+  <tr>
+    <td width="45%" valign="middle" align="center">
+      <img src="https://github.com/user-attachments/assets/5d269fc9-3cff-43ca-872f-759c5ffe4e39" alt="VNList Demo" style="border-radius: 8px;" width="230px" /> 
+    </td>
+    <td width="55%" valign="middle" style="padding-left: 20px;">
+      <h3>⭐ VNList - Minecraft PvP Tierlist</h3>
+      <p>
+        A Full-stack system featuring a Website, Backend, and a Discord Bot <br>
+        designed to rank Minecraft PvP players in Vietnam.
+      </p>
+      <p>
+        <p>Tech Stacks: </p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,discord" height="30" alt="tech stack icons"/>
+      </p>
+      <p>
+        <a href="https://vnlist.asia" style="color: #4CAF50; text-decoration: none;"><b>🚀 Official Site</b></a> 
+        <span style="color: #555;">&nbsp;|&nbsp;</span>
+        <span style="color: #7289DA;"><b>📂 Source Code (Public Soon)</b></span>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
+
+<h1 align="center">Connect with Me</h1>
 <p align="center">
-  <br />
+<a href="https://discord.com/users/izukinoo"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://facebook.com/izukinooo"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://youtube.com/@IzukiNo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://izukino.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
+
+---
+
+<h1 align="center">My Snake Contribution <3</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+</p>
+
+---
+
+<p align="center">
   <b>Thanks for visiting! Drop a ⭐ if you like my work!</b>
 </p>
