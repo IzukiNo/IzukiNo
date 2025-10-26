@@ -68,7 +68,7 @@
         <p style="margin:6px 0;">
           <a href="https://vnlist.asia" style="color: #4CAF50; text-decoration: none;"><b>🚀 Official Site</b></a>
           <span style="color: #555;">&nbsp;|&nbsp;</span>
-          <span style="color: #7289DA;"><b>📂 Source Code (Public Soon)</b></span>
+          <span style="color: #7289DA;"><b>📂 Repository (Public Soon)</b></span>
         </p>
       </td>
     </tr>
@@ -91,7 +91,7 @@
           <img src="https://skillicons.dev/icons?i=javascript,css,html" height="26" alt="tech stack icons"/>
         </p>
         <p style="margin:6px 0;">
-          <a href="https://home-to-school-ten.vercel.app/" style="color: #7289DA; text-decoration: none;"><b>🔗 Live Demo</b></a>
+          <a href="https://home-to-school-ten.vercel.app/" style="color: #7289DA; text-decoration: none;"><b>🚀  Official Site</b></a>
           <span style="color: #555;">&nbsp;|&nbsp;</span>
           <a href="https://github.com/IzukiNo/Home_To_School" style="color: #4CAF50; text-decoration: none;"><b>📂 Repository</b></a>
         </p>
