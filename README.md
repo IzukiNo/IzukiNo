@@ -91,9 +91,9 @@
           <img src="https://skillicons.dev/icons?i=javascript,css,html" height="26" alt="tech stack icons"/>
         </p>
         <p style="margin:6px 0;">
-          <a href="https://github.com/IzukiNo/Home_To_School" style="color: #4CAF50; text-decoration: none;"><b>📂 Repository</b></a>
-          <span style="color: #555;">&nbsp;|&nbsp;</span>
           <a href="https://home-to-school-ten.vercel.app/" style="color: #7289DA; text-decoration: none;"><b>🔗 Live Demo</b></a>
+          <span style="color: #555;">&nbsp;|&nbsp;</span>
+          <a href="https://github.com/IzukiNo/Home_To_School" style="color: #4CAF50; text-decoration: none;"><b>📂 Repository</b></a>
         </p>
       </td>
     </tr>
