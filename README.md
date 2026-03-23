@@ -14,7 +14,7 @@
 <td valign="center" width="60%">
 
 - 🎓 Student @ **HCMUE** | Information Technology Major
-- 🛠️ Fullstack/2 Developer
+- 🛠️ "Fullstack/2" Developer
 - 💻 Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
 - 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
 - 🎬 Editor (Sony Vegas Pro 21)
