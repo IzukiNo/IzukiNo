@@ -13,13 +13,13 @@
 <tr>
 <td valign="center" width="60%">
 
-- Student @ **HCMUE** | Information Technology Major
-- "Halfstack" Developer
-- Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
-- Favorite tools: Node.js, Express.js, MongoDB, VS Code
-- Editor (Sony Vegas Pro 21)
-- Portfolio: [izukino.tech](https://izukino.github.io/)
-- Hobbies: Sleeping, Gaming (Minecraft, Valorant)
+- 🎓 Student @ **HCMUE** | Information Technology Major
+- 🛠️ "Fullstack/2" Developer
+- 💻 Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
+- 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
+- 🎬 Editor (Sony Vegas Pro 21)
+- 🌐 Portfolio: [izukino.tech](https://izukino.github.io/)
+- 😴 Hobbies: Sleeping, Gaming (Minecraft, Valorant)
 
 </td>
 <td valign="top" width="40%">
@@ -68,7 +68,7 @@
         <p style="margin:6px 0;">
           <a href="https://vnlist.asia" style="color: #4CAF50; text-decoration: none;"><b>🚀 Official Site</b></a>
           <span style="color: #555;">&nbsp;|&nbsp;</span>
-          <span style="color: #7289DA;"><b>📂 Repository (Public Soon)</b></span>
+          <span style="color: #7289DA;"><b>📂 Repository (Private)</b></span>
         </p>
       </td>
     </tr>
