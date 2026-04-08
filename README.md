@@ -13,13 +13,13 @@
 <tr>
 <td valign="center" width="60%">
 
-- 🎓 Student @ **HCMUE** | Information Technology Major
-- 🛠️ "Fullstack/2" Developer
-- 💻 Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
-- 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
-- 🎬 Editor (Sony Vegas Pro 21)
-- 🌐 Portfolio: [izukino.tech](https://izukino.tech)
-- 😴 Hobbies: Sleeping (Certified Napper 🛌), Gaming (Minecraft, Valorant)
+- Student @ **HCMUE** | Information Technology Major
+- "Halfstack" Developer
+- Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
+- Favorite tools: Node.js, Express.js, MongoDB, VS Code
+- Editor (Sony Vegas Pro 21)
+- Portfolio: [izukino.tech](https://izukino.github.io/)
+- Hobbies: Sleeping, Gaming (Minecraft, Valorant)
 
 </td>
 <td valign="top" width="40%">
@@ -73,31 +73,6 @@
       </td>
     </tr>
   </table>
-
-  <!-- Card 2 (New) -->
-  <table style="width:420px; max-width:88%; height:260px; border-radius: 10px; border: 1px solid #333; background-color: #1A1B27; padding: 16px; box-sizing: border-box;">
-    <tr>
-      <td width="45%" valign="middle" align="center" style="vertical-align: middle;">
-        <!-- Replace this image URL with a project screenshot if you have one -->
-        <img src="https://github.com/user-attachments/assets/caab0085-9990-4ef3-b942-b966ba5acff7" alt="Home To School Demo" style="border-radius: 8px; max-height:200px; width:auto;" />
-      </td>
-      <td width="55%" valign="middle" style="padding-left: 16px; vertical-align: middle;">
-        <h3>⭐ Home To School — Educational graph visualization</h3>
-        <p style="margin:6px 0;">
-          Educational graph visualization tool for learning shortest path algorithms. Beautiful UI, mobile-ready, featuring Dijkstra, BFS &amp; DFS implementations.
-        </p>
-        <p style="margin:8px 0;">
-          <span style="display:block; margin-bottom:6px;">Tech Stacks<br><br></span>
-          <img src="https://skillicons.dev/icons?i=javascript,css,html" height="26" alt="tech stack icons"/>
-        </p>
-        <p style="margin:6px 0;">
-          <a href="https://home-to-school-ten.vercel.app/" style="color: #7289DA; text-decoration: none;"><b>🚀  Official Site</b></a>
-          <span style="color: #555;">&nbsp;|&nbsp;</span>
-          <a href="https://github.com/IzukiNo/Home_To_School" style="color: #4CAF50; text-decoration: none;"><b>📂 Repository</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -106,8 +81,8 @@
 <p align="center">
 <a href="https://discord.com/users/izukinoo"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://facebook.com/izukinooo"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://youtube.com/@IzukiNo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://izukino.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://www.youtube.com/@izukinoo"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://izukino.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
 ---
