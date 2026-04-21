@@ -18,7 +18,7 @@
 - 💻 Languages: **JavaScript**, HTML, CSS, C++, C#, PHP
 - 🕹️ Favorite tools: Node.js, Express.js, MongoDB, VS Code
 - 🎬 Editor (Sony Vegas Pro 21)
-- 🌐 Portfolio: [izukino.tech](https://izukino.github.io/)
+- 🌐 Portfolio: [izukino.github.io](https://izukino.github.io/)
 - 😴 Hobbies: Sleeping, Gaming (Minecraft, Valorant)
 
 </td>
